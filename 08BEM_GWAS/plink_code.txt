@@ -1,0 +1,5 @@
+plink --vcf 293BGEM_V5_dp3.imputed.nohet.miss05.maf001.vcf --make-bed --out 293BGEM_V5_dp3.imputed.nohet.miss05.maf001
+plink --bfile 293BGEM_V5_dp3.imputed.nohet.miss05.maf001 --freq --out 293BGEM
+plink --bfile 293BGEM_V5_dp3.imputed.nohet.miss05.maf001 --missing --out 293BGEM
+plink --bfile 293BGEM_V5_dp3.imputed.nohet.miss05.maf001 --het 293BGEM
+plink --bfile 293BGEM_V5_dp3.imputed.nohet.miss05.maf001 --pca --out 293BGEM

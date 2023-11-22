@@ -1,0 +1,39 @@
+1	HN-aerial_root_number
+2	HN-stem_diameter (mm)
+3	HN-first_internode_length
+4	HN-second_internode_length
+5	HN-third_internode_length
+6	HN-fresh_root_weight
+7	HN-dry_root_weight
+8	LN-aerial_root_number
+9	LN-stem_diameter (mm)
+10	LN-first_internode_length
+11	LN-second_internode_length
+12	LN-third_internode_length
+13	LN-fresh_root_weight
+14	LN-dry_root_weight
+15	NR-aerial_root_number
+16	NR-stem_diameter (mm)
+17	NR-first_internode_length
+18	NR-second_internode_length
+19	NR-third_internode_length
+20	NR-fresh_root_weight
+21	NR-dry_root_weight
+22	HN-EW
+23	HN-CW
+24	HN-X20KW
+25	HN-CL
+26	HN-CD
+27	HN-TKW
+28	LN-EW
+29	LN-CW
+30	LN-X20KW
+31	LN-CL
+32	LN-CD
+33	LN-TKW
+34	NR-EW
+35	NR-CW
+36	NR-X20KW
+37	NR-CL
+38	NR-CD
+39	NR-TKW
