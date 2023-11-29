@@ -39,6 +39,8 @@ blp.out=data.frame(id=rownames(lines),blp=lines)
 colnames(blp.out)[2]=na
 bl=merge(bl,blp.out,by=1,all=T)
 }
+#test
+#test2
 colnames(he)=c("Trait","Heritability")
 write.table(bl,file="data_blup_HN_result.txt",row.names = F,quote = F,sep="\t")
 write.table(he,file="Heritability_HN_result.txt",row.names = F,quote = F,sep="\t")
